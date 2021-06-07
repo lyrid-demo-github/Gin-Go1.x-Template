@@ -1,0 +1,12 @@
+name: $APP_NAME
+description: App Description
+ignoreFiles: .git
+modules:
+- name: $MODULE_NAME
+  language: go1.x
+  web: gin
+  description: Module description
+  functions:
+  - name: $FUNCTION_NAME
+    entry: entry.go
+    description: the entry point for the function
