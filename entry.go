@@ -1,4 +1,4 @@
-package $FUNCTION_NAME
+package YOUR_FUNCTION_NAME
 
 import (
 	"github.com/gin-gonic/gin"

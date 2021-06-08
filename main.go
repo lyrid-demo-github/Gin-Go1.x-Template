@@ -1,7 +1,7 @@
 package main
 
 import (
-	entry "$APP_NAME.$MODULE_NAME/$FUNCTION_NAME"
+	entry "YOUR_APP_NAME.YOUR_MODULE_NAME/YOUR_FUNCTION_NAME"
 	"github.com/joho/godotenv"
 )
 

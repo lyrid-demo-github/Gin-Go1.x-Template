@@ -1,4 +1,4 @@
-module $APP_NAME.$MODULE_NAME
+module YOUR_APP_NAME.YOUR_MODULE_NAME
 
 go 1.15
 
