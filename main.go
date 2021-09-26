@@ -1,8 +1,8 @@
 package main
 
 import (
-	entry "YOUR_APP_NAME.YOUR_MODULE_NAME/YOUR_FUNCTION_NAME"
 	"github.com/joho/godotenv"
+	entry "go1x_gin.template/entry"
 )
 
 func main() {
